@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on world with my knowledge, and become a better programmer
+- 💞️ I’m looking to collaborate on world with my knowledge, and become a better developer
 
  <div>
   <a href="https://github.com/Joaotheconde">
